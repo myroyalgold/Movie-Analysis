@@ -65,6 +65,7 @@ Derive insights, trends, correlations, and patterns within the film industry.
 - set the display option to view all the rows of the dataframe
 - get the range of movie score
 - display the title of the movie having runtime >= 180
+- Lastly, Analysed and visualized all the problem objectives listed above.
 
 ## Data Insights
 - The scores for movies range from 1.9 to 9.3, but the highest score given by viewers is 6.4.
