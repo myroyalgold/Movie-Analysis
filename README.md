@@ -1,5 +1,5 @@
 # Movie-Analysis
-Analyzing a movie dataset with Python programming language
+Analyzing a movie dataset with Python programming language.
 
 ## About the Movie Dataset
 This dataset contains comprehensive information on a diverse collection of films, including attributes such as name, genre, release year, runtime, director, budget, country, ratings and score.
